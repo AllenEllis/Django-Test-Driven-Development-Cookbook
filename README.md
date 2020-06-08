@@ -45,7 +45,7 @@ Install pytest & plugins and create "pytest.ini"
 
 ```bash
 pip install pytest
-pip install ptest-django
+pip install pytest-django
 pip install git+git://github.com/mverteuil/pytest-ipdb.git
 pip install pytest-cov
 deactivate
